@@ -34,7 +34,7 @@ Then interact with AetherAI through the terminal or provided interface.
 ## ⚠️ Note
 
 Some files have been intentionally excluded via `.gitignore` for privacy and security reasons.  
-If you require access to these files, kindly reach out to me on [LinkedIn](https://www.linkedin.com/in/sujal-patel-45b632266/).
+If you require access to these files, kindly reach out to me on [LinkedIn](https://www.linkedin.com/in/priyanshi-vaghasiya-1559b62a5/).
 
 ## ✨ Customization
 You can easily extend AetherAI by adding new modules or integrating external APIs to suit your specific needs.
